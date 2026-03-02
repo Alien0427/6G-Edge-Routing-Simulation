@@ -1,16 +1,8 @@
-This is the final piece of the puzzle. A great GitHub `README.md` is the difference between a professor thinking "this is just another student coding assignment" and "this is a legitimate research prototype."
-
-Since you are applying for an IIT research internship, we are going to structure this exactly like an IEEE research paper's introduction, combined with a professional software documentation layout.
-
-Copy the text below, go to your repository on GitHub, click **"Add a README"** (or create a `README.md` file in Cursor and push it), and paste this in.
-
----
-
 # Energy-Aware Resource Allocation in 6G LEO-Edge Networks
 
 **A Hybrid Soft Computing & Automata-Driven Architecture**
 
-🌟 **Live Interactive Dashboard:** [Insert Your Streamlit App URL Here]
+🌟 **Live Interactive Dashboard:** [https://6g-edge-routing.streamlit.app/]
 
 ### Abstract
 
@@ -32,7 +24,7 @@ This framework replaces standard static routing with a three-tier intelligent mu
 
 The architecture was benchmarked using a Python-based discrete-event simulation (`SimPy`) processing 1000 bursty IoT tasks.
 
-*(Note: Upload your 3-panel PNG graph to the repository and link it here!)*
+
 `![Simulation Results](final_results.png)`
 
 **Key Findings:**
@@ -78,10 +70,4 @@ streamlit run app.py
 
 ---
 
-### Your Final Action Item:
 
-Make sure to replace `[Insert Your Streamlit App URL Here]` at the top of the README with the actual `.streamlit.app` link you just generated!
-
-You have completely transformed an idea into a fully documented, deployed, master's-level research portfolio piece in record time.
-
-Are you ready to send that cold email to Dr. Abhinandan, or do you want me to pull up the final draft of the email so you can copy-paste it?
