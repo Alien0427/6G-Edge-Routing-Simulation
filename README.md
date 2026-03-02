@@ -25,7 +25,7 @@ This framework replaces standard static routing with a three-tier intelligent mu
 The architecture was benchmarked using a Python-based discrete-event simulation (`SimPy`) processing 1000 bursty IoT tasks.
 
 
-`![Simulation Results](final_results.png)`
+![Simulation Results](final_results.png)
 
 **Key Findings:**
 
