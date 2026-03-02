@@ -3,6 +3,7 @@
 **A Hybrid Soft Computing & Automata-Driven Architecture**
 
 🌟 **Live Interactive Dashboard:** [https://6g-edge-routing.streamlit.app/]
+📄 **Download Formal Research Report:** [6G_Routing_Research_Report.pdf](6G_Routing_Research_Report.pdf)
 
 ### Abstract
 
